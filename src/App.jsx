@@ -18,7 +18,7 @@ function App() {
       <li><a href="#Proj">Projects</a></li>
       <li><a href="#Cat">Contact</a></li>
     <div className="toggle">  <PiDotsSixVerticalBold /></div>
-     </div>
+     </div>+
       <div className="main"><p>
       <h3> Hello <br /></h3>
       <h1> I'm Isha <br />
